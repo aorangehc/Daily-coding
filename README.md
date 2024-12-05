@@ -19,3 +19,4 @@
 |LeetCode|[139. 单词拆分](https://leetcode.cn/problems/word-break/description/?envType=study-plan-v2&envId=top-100-liked)|medium|C++|
 |LeetCode|[300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/description/?envType=study-plan-v2&envId=top-100-liked)|medium|C++|
 
+[动态规划笔记](./动态规划/Dynamic-Programming-Notes.md)
