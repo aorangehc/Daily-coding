@@ -11,3 +11,4 @@
 | Reshape Matrix | 数组 | [deep-ml](https://www.deep-ml.com/problems/3) |  easy | [Python](./codes/Python/Reshape-Matrix.py) | [题解](./notes/题解.md#reshape-matrix) |
 | Calculate Mean by Row or Column | 列表 | [deep-ml](https://www.deep-ml.com/problems/4) | easy  | [Python](./codes/Python/Calculate-Mean-by-Row-or-Column.py) | [题解](./notes/题解.md#calculate-mean-by-row-or-column) |
 | Scalar Multiplication of a Matrix | 矩阵计算 | [deep-ml](https://www.deep-ml.com/problems/5) | easy  | [Python](./codes/Python/Scalar-Multiplication-of-a-Matrix.py) | [题解](./notes/题解.md#scalar-multiplication-of-a-matrix) |
+| Calculate Covariance Matrix | 矩阵计算 | [deep-ml](https://www.deep-ml.com/problems/10) | easy  | [Python](./codes/Python/Calculate-Covariance-Matrix.py) | [题解](./notes/题解.md#calculate-covariance-matrix) |

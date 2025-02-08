@@ -30,3 +30,4 @@
 | 计算从位置x到y的最少步数 | 数学 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855074766892) |  easy | [Python](./codes/Python/计算从位置x到y的最少步数.py) | [题解](./notes/题解.md#计算从位置x到y的最少步数) |
 | 补给站最优花费问题 | 贪心 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076667436) |  easy | [Python](./codes/Python/补给站最优花费问题.py) | [题解](./notes/题解.md#补给站最优花费问题) |
 | 小S的倒排索引 | 数组 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7424418560668090412) |  easy |  [Python](./codes/Python/小S的倒排索引.py) | [题解](./notes/题解.md#小S的倒排索引) |
+| 版本号比较 | 数组 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077421100) |  easy |  [Python](./codes/Python/版本号比较.py) | [题解](./notes/题解.md#版本号比较) |
