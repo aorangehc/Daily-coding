@@ -35,3 +35,4 @@
 | 线上报警问题分类 | 集合 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077322796) |  easy |  [Python](./codes/Python/线上报警问题分类.py) | [题解](./notes/题解.md#线上报警问题分类) |
 | 游戏队友搜索 | 集合 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077453868) |  easy |  [Python](./codes/Python/游戏队友搜索.py) | [题解](./notes/题解.md#游戏队友搜索) |
 | 贪心的小包 | 贪心 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076831276) |  medium |  [Python](./codes/Python/贪心的小包.py) | [题解](./notes/题解.md#贪心的小包) |
+| 五子棋获胜策略 | 数组遍历 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076929580) |  medium |  [Python](./codes/Python/五子棋获胜策略.py) | [题解](./notes/题解.md#五子棋获胜策略) |
