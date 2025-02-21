@@ -36,3 +36,5 @@
 | 游戏队友搜索 | 集合 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077453868) |  easy |  [Python](./codes/Python/游戏队友搜索.py) | [题解](./notes/题解.md#游戏队友搜索) |
 | 贪心的小包 | 贪心 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076831276) |  medium |  [Python](./codes/Python/贪心的小包.py) | [题解](./notes/题解.md#贪心的小包) |
 | 五子棋获胜策略 | 数组遍历 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076929580) |  medium |  [Python](./codes/Python/五子棋获胜策略.py) | [题解](./notes/题解.md#五子棋获胜策略) |
+| 字符修复问题 | 数组遍历 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077257260) |  medium |  [Python](./codes/Python/字符修复问题.py) | [题解](./notes/题解.md#字符修复问题) |
+| 二分数字组合 | 动态规划 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855075848236) |  easy |  [Python](./codes/Python/二分数字组合.py) | [题解](./notes/题解.md#二分数字组合) |
