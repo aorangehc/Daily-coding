@@ -38,3 +38,5 @@
 | 五子棋获胜策略 | 数组遍历 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076929580) |  medium |  [Python](./codes/Python/五子棋获胜策略.py) | [题解](./notes/题解.md#五子棋获胜策略) |
 | 字符修复问题 | 数组遍历 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855077257260) |  medium |  [Python](./codes/Python/字符修复问题.py) | [题解](./notes/题解.md#字符修复问题) |
 | 二分数字组合 | 动态规划 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855075848236) |  easy |  [Python](./codes/Python/二分数字组合.py) | [题解](./notes/题解.md#二分数字组合) |
+| DNA序列编辑距离 | 动态规划 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855075225644) |  easy |  [Python](./codes/Python/DNA序列编辑距离.py) | [题解](./notes/题解.md#DNA序列编辑距离) |
+| 徒步旅行中的补给问题 | 动态规划 | [掘金](https://www.marscode.cn/practice/dn4x3lkkq2jp1y?problem_id=7414004855076700204) |  medium |  [Python](./codes/Python/徒步旅行中的补给问题.py) | [题解](./notes/题解.md#徒步旅行中的补给问题) |
